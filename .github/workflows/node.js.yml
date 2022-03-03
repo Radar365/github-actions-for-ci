@@ -11,6 +11,9 @@ on:
 
 jobs:
   build:
+    ...
+  test:
+    ...
 
     runs-on: [ubuntu-latest, windows-2016]
 
